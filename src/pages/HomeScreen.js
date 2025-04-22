@@ -53,6 +53,7 @@ const Main = styled("main", { shouldForwardProp: (prop) => prop !== "open" })(
       }),
     background: "linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%)",
     minHeight: "100vh",
+    width: isMobile ? "100%" : `calc(100% - ${drawerWidth}px)`,
   })
 );
 
@@ -193,7 +194,7 @@ const HomeScreen = () => {
       <Drawer
         sx={{
           width: drawerWidth,
-          flexShrink: 0,
+          flexShrink: 25,
           "& .MuiDrawer-paper": {
             width: drawerWidth,
             boxSizing: "border-box",
@@ -356,7 +357,7 @@ const HomeScreen = () => {
             borderRadius: 3,
             boxShadow: "0 4px 20px rgba(0,0,0,0.05)",
             background: "#fff",
-            maxWidth: 1400,
+            maxWidth: "100%",
             mx: "auto",
             backdropFilter: "blur(10px)",
             backgroundColor: "rgba(255, 255, 255, 0.95)",
