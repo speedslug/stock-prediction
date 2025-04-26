@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d358795-26c9-488d-9fe1-8496e1f91642" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/stock-prediction-lstm-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/api/dataFetchers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/AIInsights.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/MarketNews.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/MarketSummary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/PortfolioAllocation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/PortfolioPerformance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/QuickActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/Dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/HomeScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/Predictions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/Profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/StockAnalysis.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/AXISBANK.NS_last_sequence.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/AXISBANK.NS_model.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/AXISBANK.NS_scaler.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/BAJFINANCE.NS_last_sequence.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/BAJFINANCE.NS_model.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/BAJFINANCE.NS_scaler.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/HDFCBANK.NS_last_sequence.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/HDFCBANK.NS_model.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/HDFCBANK.NS_scaler.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/HINDUNILVR.NS_last_sequence.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/HINDUNILVR.NS_model.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/HINDUNILVR.NS_scaler.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/ICICIBANK.NS_last_sequence.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/ICICIBANK.NS_model.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/ICICIBANK.NS_scaler.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/INFY.NS_last_sequence.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/INFY.NS_model.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/INFY.NS_scaler.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/RELIANCE.NS_last_sequence.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/RELIANCE.NS_model.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/RELIANCE.NS_scaler.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/SBIN.NS_last_sequence.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/SBIN.NS_model.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/SBIN.NS_scaler.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/TCS.NS_last_sequence.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/TCS.NS_model.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/TCS.NS_scaler.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/WIPRO.NS_last_sequence.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/WIPRO.NS_model.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/models/WIPRO.NS_scaler.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/images/AXISBANK.NS_training_history.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/images/BAJFINANCE.NS_training_history.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/images/HDFCBANK.NS_training_history.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/images/HINDUNILVR.NS_training_history.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/images/ICICIBANK.NS_training_history.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/images/INFY.NS_training_history.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/images/RELIANCE.NS_training_history.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/images/SBIN.NS_training_history.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/images/TCS.NS_training_history.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/static/images/WIPRO.NS_training_history.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/train_model.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2wBPwGCcLiM7SKh97Eya3NzFmq2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.app.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="stock-prediction-lstm-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11 (stock-prediction-lstm-main)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/server" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d358795-26c9-488d-9fe1-8496e1f91642" name="Changes" comment="" />
+      <created>1745512231451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745512231451</updated>
+    </task>
+    <servers />
+  </component>
+</project>
